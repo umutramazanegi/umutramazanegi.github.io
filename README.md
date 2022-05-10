@@ -1,9 +1,6 @@
-# umutramazanegi.github.io
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Umut Ramazan Eği</title>
 <link href="tasarim2.css" rel="stylesheet">    
 </head>
     
@@ -15,7 +12,6 @@
     <h1>Umut Ramazan Eği</h1>
     </a>
     <ul id="menu">
-    <li><a href="https://umutramazanegi.github.io/home.html">Anasayfa</a></li>
     <li><a href="https://umutramazanegi.github.io/hakkımda.html">Hakkımda</a></li>
     <li><a href="https://umutramazanegi.github.io/hobilerim.html" class="aktif">Hobilerim</a></li>
     <li><a href="https://umutramazanegi.github.io/iletisim.html">İletişim</a></li>   
@@ -40,9 +36,8 @@
     </div>
     <div class="alt">
     <p>
-            <a href="https://umutramazanegi.github.io/home.html">Anasayfa</a> | <a href="https://umutramazanegi.github.io/hakkımda.html">Hakkımda</a> | <a href="https://umutramazanegi.github.io/hobilerim.html">Hobilerim</a> |  <a href="https://umutramazanegi.github.io/iletisim.html">İletişim</a></p><!-- 
+ <a href="https://umutramazanegi.github.io/hakkımda.html">Hakkımda</a> | <a href="https://umutramazanegi.github.io/hobilerim.html">Hobilerim</a> |  <a href="https://umutramazanegi.github.io/iletisim.html">İletişim</a></p><!-- 
             <ul id="alt-menu">
-            <li><a href="https://umutramazanegi.github.io/home.html">Anasayfa</a>  <li>
             <li><a href="https://umutramazanegi.github.io/hakkımda.html">Hakkımda</a></li>
             <li><a href="https://umutramazanegi.github.io/hobilerim.html" class="aktif">Hobilerim</a></li>
             <li><a href="https://umutramazanegi.github.io/iletisim.html">İletişim</a></li>
